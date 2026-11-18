@@ -1,4 +1,6 @@
 
+![AI Healthcare Mobile App UX/UI Design](assets/cover.png)
+
 # AI-Powered Healthcare Mobile App
 ### Product Design | Healthcare UX/UI | AI Integration
 
@@ -34,13 +36,19 @@ The design challenge was to simplify these workflows without compromising user t
 
 ## UX/UI Solution
 
+
 ### 01. AI-Assisted Consultation
+
+![AI-Assisted Healthcare Consultation UI](assets/ai-consultation.png)
 
 Designed an intuitive conversational interface that helps users describe symptoms and receive AI-assisted guidance.
 
 The experience emphasizes clear information hierarchy, understandable interactions, and user control.
 
+
 ### 02. Doctor Discovery & Booking
+
+![Doctor Appointment Booking UX/UI](assets/doctor-booking.png)
 
 Created a streamlined appointment booking experience to help patients find healthcare providers and schedule visits with fewer steps.
 
